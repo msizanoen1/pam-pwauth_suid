@@ -1,0 +1,2 @@
+pam_pwauth_suid.so
+pwauth_suid_helper
